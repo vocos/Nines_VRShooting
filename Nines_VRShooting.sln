@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nines_VRShooting", "Nines_VRShooting.csproj", "{72062D1D-8E6B-A682-F488-163E663E3969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nines_VRShooting.Editor", "Nines_VRShooting.Editor.csproj", "{3370857D-744A-7233-21FF-184598564012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72062D1D-8E6B-A682-F488-163E663E3969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72062D1D-8E6B-A682-F488-163E663E3969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72062D1D-8E6B-A682-F488-163E663E3969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72062D1D-8E6B-A682-F488-163E663E3969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3370857D-744A-7233-21FF-184598564012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3370857D-744A-7233-21FF-184598564012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3370857D-744A-7233-21FF-184598564012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3370857D-744A-7233-21FF-184598564012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
