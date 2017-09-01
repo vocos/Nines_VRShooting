@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{72062D1D-8E6B-A682-F488-163E663E3969}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Item.cs">
+    <Files>
+      <File FileName="Assets/PlayerFollowCam.cs" Line="14" Column="5" />
+      <File FileName="Assets/Item.cs" Line="6" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/samuel/Documents/Nines_VRShooting/Assets/PlayerFollowCam.cs" relfile="Assets/PlayerFollowCam.cs" line="39" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Nines__VRShooting PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
